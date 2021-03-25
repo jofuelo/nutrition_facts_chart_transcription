@@ -83,14 +83,14 @@ We also calculated the accuracy per nutritional value. In the following table, w
 <thead>
   <tr>
     <th class="tg-0pky"></th>
-    <th class="tg-0pky">Energy kJ</th>
-    <th class="tg-0pky">Energykcal</th>
-    <th class="tg-0pky">Fat</th>
-    <th class="tg-0pky">Saturatedfat</th>
-    <th class="tg-0pky">Carbohydrates</th>
-    <th class="tg-0pky">Sugar</th>
-    <th class="tg-0pky">Proteins</th>
-    <th class="tg-0pky">Salt</th>
+    <th class="tg-0pky">Energy (kJ)</th>
+    <th class="tg-0pky">Energy (kcal)</th>
+    <th class="tg-0pky">Fat (g)</th>
+    <th class="tg-0pky">Saturated fat (g)</th>
+    <th class="tg-0pky">Carbohydrates (g)</th>
+    <th class="tg-0pky">Sugar (g)</th>
+    <th class="tg-0pky">Protein (g)</th>
+    <th class="tg-0pky">Salt (g)</th>
   </tr>
 </thead>
 <tbody>
