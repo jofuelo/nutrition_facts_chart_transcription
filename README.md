@@ -77,4 +77,34 @@ The target of this task is to obtain the above mentioned 8 nutritional informati
     <td class="tg-0pky">633</td>
   </tr>
 </tbody>
+  
+We also calculated the accuracy per nutritional value. In the following table, we show the number of errors per each one of them.
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky">Energy kJ</th>
+    <th class="tg-0pky">Energykcal</th>
+    <th class="tg-0pky">Fat</th>
+    <th class="tg-0pky">Saturatedfat</th>
+    <th class="tg-0pky">Carbohydrates</th>
+    <th class="tg-0pky">Sugar</th>
+    <th class="tg-0pky">Proteins</th>
+    <th class="tg-0pky">Salt</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Number oferrors</td>
+    <td class="tg-0pky">137 (22%)</td>
+    <td class="tg-0pky">139 (22%)</td>
+    <td class="tg-0pky">226 (36%)</td>
+    <td class="tg-0pky">232 (37%)</td>
+    <td class="tg-0pky">225 (36%)</td>
+    <td class="tg-0pky">227 (36%)</td>
+    <td class="tg-0pky">285 (45%)</td>
+    <td class="tg-0pky">259 (41%)</td>
+  </tr>
+</tbody>
+</table>
 
