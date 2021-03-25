@@ -47,7 +47,7 @@ The target of this task is to obtain the above mentioned 8 nutritional informati
 <thead>
   <tr>
     <th class="tg-0pky" rowspan="2">   <br>    </th>
-    <th class="tg-c3ow" colspan="10">   <br>Number of   errors   </th>
+    <th class="tg-c3ow" colspan="10">   <br>Number of   errors</th>
   </tr>
   <tr>
     <td class="tg-0pky">   <br>0   </td>
@@ -66,7 +66,7 @@ The target of this task is to obtain the above mentioned 8 nutritional informati
   <tr>
     <td class="tg-0pky">   <br>Number of transcriptions   </td>
     <td class="tg-0pky">   <br>144 (23%)   </td>
-    <td class="tg-0pky">   <br>95<br>   <br>(15%)   </td>
+    <td class="tg-0pky">   <br>95 (15%)   </td>
     <td class="tg-0pky">   <br>105 (17%)   </td>
     <td class="tg-0pky">   <br>71 (11%)   </td>
     <td class="tg-0pky">   <br>62 (10%)   </td>
