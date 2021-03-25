@@ -47,7 +47,7 @@ The target of this task is to obtain the above mentioned 8 nutritional informati
 <thead>
   <tr>
     <th class="tg-0pky" rowspan="2"></th>
-    <th class="tg-c3ow" colspan="10">Number of errors</th>
+    <th class="tg-0pky" colspan="10">Number of errors</th>
   </tr>
   <tr>
     <td class="tg-0pky">0</td>
@@ -95,7 +95,7 @@ We also calculated the accuracy per nutritional value. In the following table, w
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Number oferrors</td>
+    <td class="tg-0pky">Number of errors</td>
     <td class="tg-0pky">137 (22%)</td>
     <td class="tg-0pky">139 (22%)</td>
     <td class="tg-0pky">226 (36%)</td>
