@@ -43,8 +43,47 @@ You can download the images from [here](https://drive.google.com/file/d/15vnCd0p
 ## Data extraction task
 The target of this task is to obtain the above mentioned 8 nutritional information values per 100g from the image itself. To that purpose, we used Google's transcription engine `Tesseract` and [our nutrition facts chart detector](https://github.com/jofuelo/nutrition_facts_chart_detection). Several preprocessing and post processing algorithms are also applied to finally get the information structured and as correct as possible. As a metric we use the number of errors made in each image, obtaining the following results:
 
-|                                 |     Number of   errors    |                     |                  |                 |                 |                |                |                |                |              |
-|---------------------------------|---------------------------|---------------------|------------------|-----------------|-----------------|----------------|----------------|----------------|----------------|--------------|
-|                                 |     0                     |     1               |     2            |     3           |     4           |     5          |     6          |     7          |     8          |     Total    |
-|     Number of transcriptions    |     144 (23%)             |     95     (15%)    |     105 (17%)    |     71 (11%)    |     62 (10%)    |     58 (9%)    |     46 (7%)    |     18 (3%)    |     34 (5%)    |     633      |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky" rowspan="2">   <br>    </th>
+    <th class="tg-c3ow" colspan="10">   <br>Number of   errors   </th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">   <br>0   </td>
+    <td class="tg-0pky">   <br>1   </td>
+    <td class="tg-0pky">   <br>2   </td>
+    <td class="tg-0pky">   <br>3   </td>
+    <td class="tg-0pky">   <br>4   </td>
+    <td class="tg-0pky">   <br>5   </td>
+    <td class="tg-0pky">   <br>6   </td>
+    <td class="tg-0pky">   <br>7   </td>
+    <td class="tg-0pky">   <br>8   </td>
+    <td class="tg-0pky">   <br>Total   </td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">   <br>Number of transcriptions   </td>
+    <td class="tg-0pky">   <br>144 (23%)   </td>
+    <td class="tg-0pky">   <br>95<br>   <br>(15%)   </td>
+    <td class="tg-0pky">   <br>105 (17%)   </td>
+    <td class="tg-0pky">   <br>71 (11%)   </td>
+    <td class="tg-0pky">   <br>62 (10%)   </td>
+    <td class="tg-0pky">   <br>58 (9%)   </td>
+    <td class="tg-0pky">   <br>46 (7%)   </td>
+    <td class="tg-0pky">   <br>18 (3%)   </td>
+    <td class="tg-0pky">   <br>34 (5%)   </td>
+    <td class="tg-0pky">   <br>633   </td>
+  </tr>
+</tbody>
 
