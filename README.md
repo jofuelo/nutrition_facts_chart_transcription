@@ -38,7 +38,7 @@ These annotations are provided in the following way: one `csv` file per image co
 | fibra        | 2.1 | 8.6  |
 
 ## Data download
-You can download the images from [here](https://drive.google.com/file/d/15vnCd0pTIv489j_VpIx_cyTRuQYFTVUC/view?usp=sharing) and the ground truth from [here](https://drive.google.com/file/d/15vnCd0pTIv489j_VpIx_cyTRuQYFTVUC/view?usp=sharing)
+You can download the images from [here](https://drive.google.com/file/d/154iyHT7jutH177OjFVAWNoFjakoBGZeN/view?usp=sharing) and the ground truth from [here](https://drive.google.com/file/d/1mNfSmJi6D-3E6WquwmxZzu2hcImtJ6um/view?usp=sharing)
 
 ## Data extraction task
 The target of this task is to obtain the above mentioned 8 nutritional information values per 100g from the image itself. To that purpose, we used [Google's transcription engine Tesseract](https://github.com/tesseract-ocr/tesseract) and [our nutrition facts chart detector](https://github.com/jofuelo/nutrition_facts_chart_detection). Several preprocessing and post processing algorithms are also applied to finally get the information structured and as correct as possible. As a metric we use the number of errors made in each image, obtaining the following results:
