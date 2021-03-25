@@ -64,7 +64,7 @@ The target of this task is to obtain the above mentioned 8 nutritional informati
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Number of transcriptions   </td>
+    <td class="tg-0pky">Number of transcriptions</td>
     <td class="tg-0pky">144 (23%)</td>
     <td class="tg-0pky">95 (15%)</td>
     <td class="tg-0pky">105 (17%)</td>
