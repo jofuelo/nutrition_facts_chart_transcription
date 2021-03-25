@@ -47,7 +47,7 @@ The target of this task is to obtain the above mentioned 8 nutritional informati
 <thead>
   <tr>
     <th class="tg-0pky" rowspan="2"></th>
-    <th class="tg-0pky" colspan="10">Number of errors</th>
+    <th class="tg-0pky" colspan="8">Number of errors</th>
   </tr>
   <tr>
     <td class="tg-0pky">0</td>
