@@ -41,7 +41,7 @@ These annotations are provided in the following way: one `csv` file per image co
 You can download the images from [here](https://drive.google.com/file/d/15vnCd0pTIv489j_VpIx_cyTRuQYFTVUC/view?usp=sharing) and the ground truth from [here](https://drive.google.com/file/d/15vnCd0pTIv489j_VpIx_cyTRuQYFTVUC/view?usp=sharing)
 
 ## Data extraction task
-The target of this task is to obtain the above mentioned 8 nutritional information values per 100g from the image itself. To that purpose, we used Google's transcription engine `Tesseract` and [our nutrition facts chart detector](https://github.com/jofuelo/nutrition_facts_chart_detection). Several preprocessing and post processing algorithms are also applied to finally get the information structured and as correct as possible. As a metric we use the number of errors made in each image, obtaining the following results:
+The target of this task is to obtain the above mentioned 8 nutritional information values per 100g from the image itself. To that purpose, we used [Google's transcription engine Tesseract](https://github.com/tesseract-ocr/tesseract) and [our nutrition facts chart detector](https://github.com/jofuelo/nutrition_facts_chart_detection). Several preprocessing and post processing algorithms are also applied to finally get the information structured and as correct as possible. As a metric we use the number of errors made in each image, obtaining the following results:
 
 <table class="tg">
 <thead>
