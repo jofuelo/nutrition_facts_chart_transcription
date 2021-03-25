@@ -46,35 +46,35 @@ The target of this task is to obtain the above mentioned 8 nutritional informati
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky" rowspan="2">   <br>    </th>
-    <th class="tg-c3ow" colspan="10">   <br>Number of   errors</th>
+    <th class="tg-0pky" rowspan="2"></th>
+    <th class="tg-c3ow" colspan="10">Number of errors</th>
   </tr>
   <tr>
-    <td class="tg-0pky">   <br>0   </td>
-    <td class="tg-0pky">   <br>1   </td>
-    <td class="tg-0pky">   <br>2   </td>
-    <td class="tg-0pky">   <br>3   </td>
-    <td class="tg-0pky">   <br>4   </td>
-    <td class="tg-0pky">   <br>5   </td>
-    <td class="tg-0pky">   <br>6   </td>
-    <td class="tg-0pky">   <br>7   </td>
-    <td class="tg-0pky">   <br>8   </td>
-    <td class="tg-0pky">   <br>Total   </td>
+    <td class="tg-0pky">0</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky">4</td>
+    <td class="tg-0pky">5</td>
+    <td class="tg-0pky">6</td>
+    <td class="tg-0pky">7</td>
+    <td class="tg-0pky">8</td>
+    <td class="tg-0pky">Total</td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">   <br>Number of transcriptions   </td>
-    <td class="tg-0pky">   <br>144 (23%)   </td>
-    <td class="tg-0pky">   <br>95 (15%)   </td>
-    <td class="tg-0pky">   <br>105 (17%)   </td>
-    <td class="tg-0pky">   <br>71 (11%)   </td>
-    <td class="tg-0pky">   <br>62 (10%)   </td>
-    <td class="tg-0pky">   <br>58 (9%)   </td>
-    <td class="tg-0pky">   <br>46 (7%)   </td>
-    <td class="tg-0pky">   <br>18 (3%)   </td>
-    <td class="tg-0pky">   <br>34 (5%)   </td>
-    <td class="tg-0pky">   <br>633   </td>
+    <td class="tg-0pky">Number of transcriptions   </td>
+    <td class="tg-0pky">144 (23%)</td>
+    <td class="tg-0pky">95 (15%)</td>
+    <td class="tg-0pky">105 (17%)</td>
+    <td class="tg-0pky">71 (11%)</td>
+    <td class="tg-0pky">62 (10%)</td>
+    <td class="tg-0pky">58 (9%)</td>
+    <td class="tg-0pky">46 (7%)</td>
+    <td class="tg-0pky">18 (3%)</td>
+    <td class="tg-0pky">34 (5%)</td>
+    <td class="tg-0pky">633</td>
   </tr>
 </tbody>
 
