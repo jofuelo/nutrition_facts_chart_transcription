@@ -8,8 +8,8 @@ This dataset contains **633** images.
 The images are natural close-up photographs of one side of food products with the nutritional facts box clearly visible.
 All of them are of spanish products.
 ##### Examples
-![Example1](/examples/imgs/ex1.jpg)
-![Example2](/examples/imgs/ex2.jpg)
+![Example1](/examples/ex1.JPG)
+![Example2](/examples/ex2.JPG)
 
 ## Ground truth description
 All images have been labeled by hand with the ground truth value of 8 nutritional values: energy (kJ), energy (kcal), fat (g), saturated fat (g), carbohydrates (g), sugar (g), protein (g) and salt (g). Other nutritional values may be present in the annotations but we didn't take them into account, as they did not appear in the nutrition facts chart for most products.
