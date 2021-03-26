@@ -26,6 +26,8 @@ As all the products are spanish and the charts in the images are in spanish, the
 These annotations are provided in the following way: one `csv` file per image contains all the information. This file may contain two or three columns depending on how much information appears in the product. The first one is always a list of the nutritional values that appear in the image. The second one contains the quantity of those fields per 100g of product. The third one, if present, contains the quantity of those fields per serving. This column isn't always present in the product labeling, so it is provided when present.
 
 ##### Example
+| | | |
+|-|-|-|-|
 | energía_kj   | 802 | 3246 |
 | energía_kcal | 190 | 770  |
 | grasa        | 4.5 | 18   |
