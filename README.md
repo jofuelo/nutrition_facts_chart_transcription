@@ -2,12 +2,12 @@
 This page contains a small dataset for the task of recovering structured precise nutritional information from an image of a product.
 
 ## Dataset description
-##### Size: 
+#### Size: 
 This dataset contains **633** images.
-##### Data description:
+#### Data description:
 The images are natural close-up photographs of one side of food products with the nutritional facts box clearly visible.
 All of them are of spanish products.
-##### Examples
+#### Examples
 ![Example1](/examples/ex1.JPG)
 ![Example2](/examples/ex2.JPG)
 
@@ -25,7 +25,7 @@ As all the products are spanish and the charts in the images are in spanish, the
 
 These annotations are provided in the following way: one `csv` file per image contains all the information. This file may contain two or three columns depending on how much information appears in the product. The first one is always a list of the nutritional values that appear in the image. The second one contains the quantity of those fields per 100g of product. The third one, if present, contains the quantity of those fields per serving. This column isn't always present in the product labeling, so it is provided when present.
 
-##### Example
+#### Example
 | | | |
 |-|-|-|
 | energía_kj   | 802 | 3246 |
