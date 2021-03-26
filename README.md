@@ -27,7 +27,7 @@ These annotations are provided in the following way: one `csv` file per image co
 
 ##### Example
 | | | |
-|-|-|-|-|
+|-|-|-|
 | energía_kj   | 802 | 3246 |
 | energía_kcal | 190 | 770  |
 | grasa        | 4.5 | 18   |
